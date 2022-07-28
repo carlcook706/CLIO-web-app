@@ -1,0 +1,40 @@
+[18-Nov-2021 09:56:45 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[18-Nov-2021 09:56:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[18-Nov-2021 09:56:45 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[18-Nov-2021 09:56:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[18-Nov-2021 13:03:31 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[18-Nov-2021 13:03:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[18-Nov-2021 13:03:31 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[18-Nov-2021 13:03:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[18-Nov-2021 13:05:56 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[18-Nov-2021 13:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[18-Nov-2021 13:05:56 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[18-Nov-2021 13:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[14-Dec-2021 00:05:55 UTC] PHP Fatal error:  Cannot redeclare Ojt::updateTotalHoursToRender() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/controllers/Ojt.php on line 291
+[14-Dec-2021 00:06:13 UTC] PHP Fatal error:  Cannot redeclare Ojt::updateTotalHoursToRender() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/controllers/Ojt.php on line 291
+[14-Dec-2021 00:06:16 UTC] PHP Fatal error:  Cannot redeclare Ojt::updateTotalHoursToRender() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/controllers/Ojt.php on line 291
+[14-Dec-2021 00:06:17 UTC] PHP Fatal error:  Cannot redeclare Ojt::updateTotalHoursToRender() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/controllers/Ojt.php on line 291
+[14-Dec-2021 00:06:19 UTC] PHP Fatal error:  Cannot redeclare Ojt::updateTotalHoursToRender() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/controllers/Ojt.php on line 291
+[09-Jan-2022 02:59:14 UTC] PHP Fatal error:  Cannot redeclare crud_model::download() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 960
+[09-Jan-2022 02:59:19 UTC] PHP Fatal error:  Cannot redeclare crud_model::download() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 960
+[09-Jan-2022 02:59:20 UTC] PHP Fatal error:  Cannot redeclare crud_model::download() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 960
+[09-Jan-2022 02:59:21 UTC] PHP Fatal error:  Cannot redeclare crud_model::download() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 960
+[09-Jan-2022 02:59:21 UTC] PHP Fatal error:  Cannot redeclare crud_model::download() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 960
+[11-Jan-2022 03:49:03 UTC] PHP Fatal error:  Cannot redeclare crud_model::findContactNumber() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 1077
+[11-Jan-2022 03:49:04 UTC] PHP Fatal error:  Cannot redeclare crud_model::findContactNumber() in /home/c7t0m9j2su4p/public_html/CI-Login-master/application/models/Crud_model.php on line 1077
+[12-Jan-2022 04:02:06 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 04:02:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 04:02:06 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 04:02:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 04:05:36 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 04:05:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 04:05:36 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 04:05:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 04:10:51 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 04:10:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 04:10:51 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 04:10:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 06:36:47 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 06:36:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 5
+[12-Jan-2022 06:36:47 UTC] PHP Notice:  Undefined index: file in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
+[12-Jan-2022 06:36:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/c7t0m9j2su4p/public_html/CI-Login-master/uploadToWeb.php on line 7
